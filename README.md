@@ -7,6 +7,11 @@
 
 - 📫 How to reach me **sajith@apis.lk**
 
+  
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sajithapislk/count.svg" alt="Sajith's Profile Counter" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <div align="left">
