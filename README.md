@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sajith Madhubashana</h1>
-<h3 align="center">A highly skilled and experienced Full Stack Engineer, I possess a deep understanding of both front-end and back-end development technologies. I have extensive experience in developing complex web applications, building responsive user interfaces, and creating highly scalable and secure systems.</h3>
+<h3 align="center">Highly skilled Full Stack Engineer & Tech Innovator, specializing in building scalable web applications, mobile apps, and AI-powered web systems. I also explore the intersection of IoT and web technologies to create innovative solutions.</h3>
 
-- 👨‍💻 All of my projects are available at [www.apis.lk](https://apis.lk/)
+- 👨‍💻 Explore my projects at [www.apis.lk](https://apis.lk/)
 
-- 💬 Ask me about **Laravel, Spring Boot, VueJs**
+- 💬 Discuss **Scalable Web Apps**, **Mobile Apps**, **AI/ML**, **IoT**, **Laravel**, **Spring Boot**, **VueJs**, **Flutter** with me
 
-- 📫 How to reach me **sajith@apis.lk**
+- 📫 Get in touch: **sajith@apis.lk**
 
   <h4 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Visitor's count :eyes:<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h4>
 
