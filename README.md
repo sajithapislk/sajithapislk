@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sajith Madhubashana</h1>
-<h3 align="center">A highly skilled and experienced Full Stack Developer, I possess a deep understanding of both front-end and back-end development technologies. I have extensive experience in developing complex web applications, building responsive user interfaces, and creating highly scalable and secure systems.</h3>
+<h3 align="center">A highly skilled and experienced Full Stack Engineer, I possess a deep understanding of both front-end and back-end development technologies. I have extensive experience in developing complex web applications, building responsive user interfaces, and creating highly scalable and secure systems.</h3>
 
 - 👨‍💻 All of my projects are available at [www.apis.lk](https://apis.lk/)
 
-- 💬 Ask me about **Laravel, VueJs,**
+- 💬 Ask me about **Laravel, Spring Boot, VueJs**
 
 - 📫 How to reach me **sajith@apis.lk**
 
