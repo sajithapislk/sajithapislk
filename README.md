@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajith Madhubashana</h1>
 <h3 align="center">Highly skilled Full Stack Engineer & Tech Innovator, specializing in building scalable web applications, mobile apps, and AI-powered web systems. I also explore the intersection of IoT and web technologies to create innovative solutions.</h3>
 
-- 👨‍💻 Explore my projects at [www.apis.lk](https://apis.lk/)
+- 👨‍💻 Explore my projects at [Portfolio]([https://apis.lk/](https://sajith-madhubashana.apis.lk/))
 
 - 💬 Discuss **Scalable Web Apps**, **Mobile Apps**, **AI/ML**, **IoT**, **Laravel**, **Spring Boot**, **VueJs**, **Flutter** with me
 
