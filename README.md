@@ -7,9 +7,6 @@
 
 - 📫 Get in touch: **sajith@apis.lk**
 
-  <h4 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Visitor's count :eyes:<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/sajithapislk/count.svg" alt="Yasodha Virajani :: Visitor's Count" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
